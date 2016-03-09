@@ -1,0 +1,35 @@
+{
+  "name": "gulp-s3-deploy",
+  "version": "0.0.1",
+  "description": "Automated deployment to s3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified but I somewhat know what Im doing\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "s3",
+    "deployment",
+    "deploy",
+    "automated"
+  ],
+  "author": "vroudge",
+  "license": "ISC",
+  "dependencies": {
+    "compressjs": "^1.0.3",
+    "gulp": "^3.9.1",
+    "gulp-awspublish": "^3.0.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-cli": "^1.2.1",
+    "gulp-git": "^1.7.0",
+    "gulp-grunt": "^0.5.3",
+    "gulp-gzip": "^1.2.0",
+    "gulp-hashsum": "^1.0.1",
+    "gulp-install": "^0.6.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-tar": "^1.8.0",
+    "run-sequence": "^1.1.5",
+    "vinyl-source-stream": "^1.1.0",
+    "yargs": "^4.2.0"
+  }
+}
