@@ -21,7 +21,7 @@
     "gulp-awspublish": "^3.0.1",
     "gulp-clean": "^0.3.2",
     "gulp-cli": "^1.2.1",
-    "gulp-git": "^1.7.0",
+    "gulp-git-workingclone": "1.7.0",
     "gulp-grunt": "^0.5.3",
     "gulp-gzip": "^1.2.0",
     "gulp-hashsum": "^1.0.1",
